@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PhyoeWai1011
+- 👋 Hi, I’m @PhyoeWai
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning cloud technology AWS.
 - 💞️ I’m looking to collaborate on ...
